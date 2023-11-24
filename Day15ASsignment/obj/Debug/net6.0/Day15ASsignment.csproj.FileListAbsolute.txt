@@ -1,0 +1,14 @@
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\bin\Debug\net6.0\Day15ASsignment.exe
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\bin\Debug\net6.0\Day15ASsignment.deps.json
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\bin\Debug\net6.0\Day15ASsignment.runtimeconfig.json
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\bin\Debug\net6.0\Day15ASsignment.dll
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\bin\Debug\net6.0\Day15ASsignment.pdb
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\Day15ASsignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\Day15ASsignment.AssemblyInfoInputs.cache
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\Day15ASsignment.AssemblyInfo.cs
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\Day15ASsignment.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\Day15ASsignment.dll
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\refint\Day15ASsignment.dll
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\Day15ASsignment.pdb
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\Day15ASsignment.genruntimeconfig.cache
+C:\simplilearn\Day15\BasicCsharpAssignment\Day15ASsignment\Day15ASsignment\obj\Debug\net6.0\ref\Day15ASsignment.dll
